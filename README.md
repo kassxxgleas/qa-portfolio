@@ -52,7 +52,7 @@ This repository is structured to demonstrate my knowledge of the **full QA proce
 ## 📎 Contact
 - **Name:** Fylyp Filip  
 - **Email:** filip.fylyp07@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **LinkedIn:** [linkedin.com/in/filip-fylyp](https://linkedin.com/in/filip-fylyp)  
 - **Resume:** [Download PDF](./Fylyp_Filip_AQA_Engineer.pdf)  
 
 ---
